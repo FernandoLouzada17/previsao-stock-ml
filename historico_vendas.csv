@@ -1,0 +1,1096 @@
+data,produto,vendas_diarias
+2025-01-01,Smartphone (Curva A),42
+2025-01-02,Smartphone (Curva A),50
+2025-01-03,Smartphone (Curva A),37
+2025-01-04,Smartphone (Curva A),47
+2025-01-05,Smartphone (Curva A),52
+2025-01-06,Smartphone (Curva A),38
+2025-01-07,Smartphone (Curva A),41
+2025-01-08,Smartphone (Curva A),44
+2025-01-09,Smartphone (Curva A),47
+2025-01-10,Smartphone (Curva A),41
+2025-01-11,Smartphone (Curva A),44
+2025-01-12,Smartphone (Curva A),38
+2025-01-13,Smartphone (Curva A),47
+2025-01-14,Smartphone (Curva A),47
+2025-01-15,Smartphone (Curva A),41
+2025-01-16,Smartphone (Curva A),49
+2025-01-17,Smartphone (Curva A),36
+2025-01-18,Smartphone (Curva A),40
+2025-01-19,Smartphone (Curva A),41
+2025-01-20,Smartphone (Curva A),46
+2025-01-21,Smartphone (Curva A),58
+2025-01-22,Smartphone (Curva A),47
+2025-01-23,Smartphone (Curva A),34
+2025-01-24,Smartphone (Curva A),29
+2025-01-25,Smartphone (Curva A),43
+2025-01-26,Smartphone (Curva A),52
+2025-01-27,Smartphone (Curva A),40
+2025-01-28,Smartphone (Curva A),37
+2025-01-29,Smartphone (Curva A),51
+2025-01-30,Smartphone (Curva A),49
+2025-01-31,Smartphone (Curva A),51
+2025-02-01,Smartphone (Curva A),42
+2025-02-02,Smartphone (Curva A),53
+2025-02-03,Smartphone (Curva A),42
+2025-02-04,Smartphone (Curva A),41
+2025-02-05,Smartphone (Curva A),50
+2025-02-06,Smartphone (Curva A),55
+2025-02-07,Smartphone (Curva A),36
+2025-02-08,Smartphone (Curva A),50
+2025-02-09,Smartphone (Curva A),51
+2025-02-10,Smartphone (Curva A),45
+2025-02-11,Smartphone (Curva A),41
+2025-02-12,Smartphone (Curva A),56
+2025-02-13,Smartphone (Curva A),43
+2025-02-14,Smartphone (Curva A),39
+2025-02-15,Smartphone (Curva A),41
+2025-02-16,Smartphone (Curva A),57
+2025-02-17,Smartphone (Curva A),48
+2025-02-18,Smartphone (Curva A),52
+2025-02-19,Smartphone (Curva A),55
+2025-02-20,Smartphone (Curva A),41
+2025-02-21,Smartphone (Curva A),39
+2025-02-22,Smartphone (Curva A),43
+2025-02-23,Smartphone (Curva A),36
+2025-02-24,Smartphone (Curva A),59
+2025-02-25,Smartphone (Curva A),45
+2025-02-26,Smartphone (Curva A),63
+2025-02-27,Smartphone (Curva A),45
+2025-02-28,Smartphone (Curva A),40
+2025-03-01,Smartphone (Curva A),47
+2025-03-02,Smartphone (Curva A),30
+2025-03-03,Smartphone (Curva A),56
+2025-03-04,Smartphone (Curva A),37
+2025-03-05,Smartphone (Curva A),48
+2025-03-06,Smartphone (Curva A),39
+2025-03-07,Smartphone (Curva A),42
+2025-03-08,Smartphone (Curva A),48
+2025-03-09,Smartphone (Curva A),34
+2025-03-10,Smartphone (Curva A),41
+2025-03-11,Smartphone (Curva A),49
+2025-03-12,Smartphone (Curva A),45
+2025-03-13,Smartphone (Curva A),48
+2025-03-14,Smartphone (Curva A),49
+2025-03-15,Smartphone (Curva A),58
+2025-03-16,Smartphone (Curva A),42
+2025-03-17,Smartphone (Curva A),40
+2025-03-18,Smartphone (Curva A),52
+2025-03-19,Smartphone (Curva A),46
+2025-03-20,Smartphone (Curva A),55
+2025-03-21,Smartphone (Curva A),42
+2025-03-22,Smartphone (Curva A),48
+2025-03-23,Smartphone (Curva A),47
+2025-03-24,Smartphone (Curva A),35
+2025-03-25,Smartphone (Curva A),46
+2025-03-26,Smartphone (Curva A),48
+2025-03-27,Smartphone (Curva A),49
+2025-03-28,Smartphone (Curva A),41
+2025-03-29,Smartphone (Curva A),48
+2025-03-30,Smartphone (Curva A),48
+2025-03-31,Smartphone (Curva A),34
+2025-04-01,Smartphone (Curva A),40
+2025-04-02,Smartphone (Curva A),55
+2025-04-03,Smartphone (Curva A),51
+2025-04-04,Smartphone (Curva A),46
+2025-04-05,Smartphone (Curva A),38
+2025-04-06,Smartphone (Curva A),40
+2025-04-07,Smartphone (Curva A),48
+2025-04-08,Smartphone (Curva A),56
+2025-04-09,Smartphone (Curva A),44
+2025-04-10,Smartphone (Curva A),41
+2025-04-11,Smartphone (Curva A),53
+2025-04-12,Smartphone (Curva A),38
+2025-04-13,Smartphone (Curva A),58
+2025-04-14,Smartphone (Curva A),46
+2025-04-15,Smartphone (Curva A),37
+2025-04-16,Smartphone (Curva A),54
+2025-04-17,Smartphone (Curva A),49
+2025-04-18,Smartphone (Curva A),42
+2025-04-19,Smartphone (Curva A),45
+2025-04-20,Smartphone (Curva A),51
+2025-04-21,Smartphone (Curva A),49
+2025-04-22,Smartphone (Curva A),55
+2025-04-23,Smartphone (Curva A),42
+2025-04-24,Smartphone (Curva A),46
+2025-04-25,Smartphone (Curva A),44
+2025-04-26,Smartphone (Curva A),41
+2025-04-27,Smartphone (Curva A),25
+2025-04-28,Smartphone (Curva A),52
+2025-04-29,Smartphone (Curva A),36
+2025-04-30,Smartphone (Curva A),51
+2025-05-01,Smartphone (Curva A),47
+2025-05-02,Smartphone (Curva A),30
+2025-05-03,Smartphone (Curva A),46
+2025-05-04,Smartphone (Curva A),45
+2025-05-05,Smartphone (Curva A),51
+2025-05-06,Smartphone (Curva A),44
+2025-05-07,Smartphone (Curva A),53
+2025-05-08,Smartphone (Curva A),43
+2025-05-09,Smartphone (Curva A),37
+2025-05-10,Smartphone (Curva A),46
+2025-05-11,Smartphone (Curva A),48
+2025-05-12,Smartphone (Curva A),46
+2025-05-13,Smartphone (Curva A),43
+2025-05-14,Smartphone (Curva A),42
+2025-05-15,Smartphone (Curva A),29
+2025-05-16,Smartphone (Curva A),53
+2025-05-17,Smartphone (Curva A),44
+2025-05-18,Smartphone (Curva A),45
+2025-05-19,Smartphone (Curva A),38
+2025-05-20,Smartphone (Curva A),43
+2025-05-21,Smartphone (Curva A),48
+2025-05-22,Smartphone (Curva A),42
+2025-05-23,Smartphone (Curva A),45
+2025-05-24,Smartphone (Curva A),48
+2025-05-25,Smartphone (Curva A),33
+2025-05-26,Smartphone (Curva A),58
+2025-05-27,Smartphone (Curva A),43
+2025-05-28,Smartphone (Curva A),44
+2025-05-29,Smartphone (Curva A),59
+2025-05-30,Smartphone (Curva A),38
+2025-05-31,Smartphone (Curva A),35
+2025-06-01,Smartphone (Curva A),34
+2025-06-02,Smartphone (Curva A),33
+2025-06-03,Smartphone (Curva A),53
+2025-06-04,Smartphone (Curva A),52
+2025-06-05,Smartphone (Curva A),36
+2025-06-06,Smartphone (Curva A),48
+2025-06-07,Smartphone (Curva A),50
+2025-06-08,Smartphone (Curva A),40
+2025-06-09,Smartphone (Curva A),50
+2025-06-10,Smartphone (Curva A),42
+2025-06-11,Smartphone (Curva A),42
+2025-06-12,Smartphone (Curva A),53
+2025-06-13,Smartphone (Curva A),50
+2025-06-14,Smartphone (Curva A),35
+2025-06-15,Smartphone (Curva A),45
+2025-06-16,Smartphone (Curva A),41
+2025-06-17,Smartphone (Curva A),43
+2025-06-18,Smartphone (Curva A),55
+2025-06-19,Smartphone (Curva A),60
+2025-06-20,Smartphone (Curva A),48
+2025-06-21,Smartphone (Curva A),41
+2025-06-22,Smartphone (Curva A),48
+2025-06-23,Smartphone (Curva A),51
+2025-06-24,Smartphone (Curva A),34
+2025-06-25,Smartphone (Curva A),31
+2025-06-26,Smartphone (Curva A),44
+2025-06-27,Smartphone (Curva A),42
+2025-06-28,Smartphone (Curva A),37
+2025-06-29,Smartphone (Curva A),47
+2025-06-30,Smartphone (Curva A),34
+2025-07-01,Smartphone (Curva A),33
+2025-07-02,Smartphone (Curva A),49
+2025-07-03,Smartphone (Curva A),42
+2025-07-04,Smartphone (Curva A),42
+2025-07-05,Smartphone (Curva A),51
+2025-07-06,Smartphone (Curva A),43
+2025-07-07,Smartphone (Curva A),35
+2025-07-08,Smartphone (Curva A),31
+2025-07-09,Smartphone (Curva A),36
+2025-07-10,Smartphone (Curva A),50
+2025-07-11,Smartphone (Curva A),63
+2025-07-12,Smartphone (Curva A),41
+2025-07-13,Smartphone (Curva A),33
+2025-07-14,Smartphone (Curva A),48
+2025-07-15,Smartphone (Curva A),44
+2025-07-16,Smartphone (Curva A),47
+2025-07-17,Smartphone (Curva A),29
+2025-07-18,Smartphone (Curva A),44
+2025-07-19,Smartphone (Curva A),40
+2025-07-20,Smartphone (Curva A),44
+2025-07-21,Smartphone (Curva A),47
+2025-07-22,Smartphone (Curva A),49
+2025-07-23,Smartphone (Curva A),41
+2025-07-24,Smartphone (Curva A),49
+2025-07-25,Smartphone (Curva A),56
+2025-07-26,Smartphone (Curva A),60
+2025-07-27,Smartphone (Curva A),47
+2025-07-28,Smartphone (Curva A),29
+2025-07-29,Smartphone (Curva A),42
+2025-07-30,Smartphone (Curva A),47
+2025-07-31,Smartphone (Curva A),53
+2025-08-01,Smartphone (Curva A),43
+2025-08-02,Smartphone (Curva A),53
+2025-08-03,Smartphone (Curva A),44
+2025-08-04,Smartphone (Curva A),61
+2025-08-05,Smartphone (Curva A),39
+2025-08-06,Smartphone (Curva A),47
+2025-08-07,Smartphone (Curva A),35
+2025-08-08,Smartphone (Curva A),45
+2025-08-09,Smartphone (Curva A),45
+2025-08-10,Smartphone (Curva A),46
+2025-08-11,Smartphone (Curva A),54
+2025-08-12,Smartphone (Curva A),36
+2025-08-13,Smartphone (Curva A),50
+2025-08-14,Smartphone (Curva A),49
+2025-08-15,Smartphone (Curva A),36
+2025-08-16,Smartphone (Curva A),42
+2025-08-17,Smartphone (Curva A),43
+2025-08-18,Smartphone (Curva A),55
+2025-08-19,Smartphone (Curva A),45
+2025-08-20,Smartphone (Curva A),43
+2025-08-21,Smartphone (Curva A),45
+2025-08-22,Smartphone (Curva A),45
+2025-08-23,Smartphone (Curva A),48
+2025-08-24,Smartphone (Curva A),33
+2025-08-25,Smartphone (Curva A),36
+2025-08-26,Smartphone (Curva A),36
+2025-08-27,Smartphone (Curva A),38
+2025-08-28,Smartphone (Curva A),55
+2025-08-29,Smartphone (Curva A),48
+2025-08-30,Smartphone (Curva A),38
+2025-08-31,Smartphone (Curva A),37
+2025-09-01,Smartphone (Curva A),38
+2025-09-02,Smartphone (Curva A),36
+2025-09-03,Smartphone (Curva A),39
+2025-09-04,Smartphone (Curva A),45
+2025-09-05,Smartphone (Curva A),47
+2025-09-06,Smartphone (Curva A),32
+2025-09-07,Smartphone (Curva A),52
+2025-09-08,Smartphone (Curva A),38
+2025-09-09,Smartphone (Curva A),42
+2025-09-10,Smartphone (Curva A),47
+2025-09-11,Smartphone (Curva A),44
+2025-09-12,Smartphone (Curva A),27
+2025-09-13,Smartphone (Curva A),49
+2025-09-14,Smartphone (Curva A),45
+2025-09-15,Smartphone (Curva A),35
+2025-09-16,Smartphone (Curva A),46
+2025-09-17,Smartphone (Curva A),40
+2025-09-18,Smartphone (Curva A),39
+2025-09-19,Smartphone (Curva A),36
+2025-09-20,Smartphone (Curva A),47
+2025-09-21,Smartphone (Curva A),51
+2025-09-22,Smartphone (Curva A),34
+2025-09-23,Smartphone (Curva A),47
+2025-09-24,Smartphone (Curva A),44
+2025-09-25,Smartphone (Curva A),40
+2025-09-26,Smartphone (Curva A),48
+2025-09-27,Smartphone (Curva A),47
+2025-09-28,Smartphone (Curva A),35
+2025-09-29,Smartphone (Curva A),40
+2025-09-30,Smartphone (Curva A),38
+2025-10-01,Smartphone (Curva A),38
+2025-10-02,Smartphone (Curva A),33
+2025-10-03,Smartphone (Curva A),35
+2025-10-04,Smartphone (Curva A),52
+2025-10-05,Smartphone (Curva A),38
+2025-10-06,Smartphone (Curva A),57
+2025-10-07,Smartphone (Curva A),46
+2025-10-08,Smartphone (Curva A),51
+2025-10-09,Smartphone (Curva A),41
+2025-10-10,Smartphone (Curva A),45
+2025-10-11,Smartphone (Curva A),35
+2025-10-12,Smartphone (Curva A),41
+2025-10-13,Smartphone (Curva A),37
+2025-10-14,Smartphone (Curva A),46
+2025-10-15,Smartphone (Curva A),42
+2025-10-16,Smartphone (Curva A),41
+2025-10-17,Smartphone (Curva A),40
+2025-10-18,Smartphone (Curva A),50
+2025-10-19,Smartphone (Curva A),44
+2025-10-20,Smartphone (Curva A),42
+2025-10-21,Smartphone (Curva A),36
+2025-10-22,Smartphone (Curva A),58
+2025-10-23,Smartphone (Curva A),32
+2025-10-24,Smartphone (Curva A),46
+2025-10-25,Smartphone (Curva A),38
+2025-10-26,Smartphone (Curva A),37
+2025-10-27,Smartphone (Curva A),48
+2025-10-28,Smartphone (Curva A),42
+2025-10-29,Smartphone (Curva A),43
+2025-10-30,Smartphone (Curva A),44
+2025-10-31,Smartphone (Curva A),44
+2025-11-01,Smartphone (Curva A),50
+2025-11-02,Smartphone (Curva A),43
+2025-11-03,Smartphone (Curva A),56
+2025-11-04,Smartphone (Curva A),36
+2025-11-05,Smartphone (Curva A),47
+2025-11-06,Smartphone (Curva A),47
+2025-11-07,Smartphone (Curva A),55
+2025-11-08,Smartphone (Curva A),37
+2025-11-09,Smartphone (Curva A),40
+2025-11-10,Smartphone (Curva A),50
+2025-11-11,Smartphone (Curva A),42
+2025-11-12,Smartphone (Curva A),36
+2025-11-13,Smartphone (Curva A),51
+2025-11-14,Smartphone (Curva A),39
+2025-11-15,Smartphone (Curva A),49
+2025-11-16,Smartphone (Curva A),49
+2025-11-17,Smartphone (Curva A),40
+2025-11-18,Smartphone (Curva A),47
+2025-11-19,Smartphone (Curva A),44
+2025-11-20,Smartphone (Curva A),37
+2025-11-21,Smartphone (Curva A),45
+2025-11-22,Smartphone (Curva A),58
+2025-11-23,Smartphone (Curva A),49
+2025-11-24,Smartphone (Curva A),46
+2025-11-25,Smartphone (Curva A),43
+2025-11-26,Smartphone (Curva A),44
+2025-11-27,Smartphone (Curva A),54
+2025-11-28,Smartphone (Curva A),47
+2025-11-29,Smartphone (Curva A),31
+2025-11-30,Smartphone (Curva A),52
+2025-12-01,Smartphone (Curva A),42
+2025-12-02,Smartphone (Curva A),46
+2025-12-03,Smartphone (Curva A),42
+2025-12-04,Smartphone (Curva A),50
+2025-12-05,Smartphone (Curva A),39
+2025-12-06,Smartphone (Curva A),37
+2025-12-07,Smartphone (Curva A),45
+2025-12-08,Smartphone (Curva A),56
+2025-12-09,Smartphone (Curva A),47
+2025-12-10,Smartphone (Curva A),37
+2025-12-11,Smartphone (Curva A),45
+2025-12-12,Smartphone (Curva A),39
+2025-12-13,Smartphone (Curva A),39
+2025-12-14,Smartphone (Curva A),46
+2025-12-15,Smartphone (Curva A),51
+2025-12-16,Smartphone (Curva A),45
+2025-12-17,Smartphone (Curva A),43
+2025-12-18,Smartphone (Curva A),37
+2025-12-19,Smartphone (Curva A),42
+2025-12-20,Smartphone (Curva A),48
+2025-12-21,Smartphone (Curva A),49
+2025-12-22,Smartphone (Curva A),39
+2025-12-23,Smartphone (Curva A),51
+2025-12-24,Smartphone (Curva A),48
+2025-12-25,Smartphone (Curva A),35
+2025-12-26,Smartphone (Curva A),52
+2025-12-27,Smartphone (Curva A),48
+2025-12-28,Smartphone (Curva A),41
+2025-12-29,Smartphone (Curva A),39
+2025-12-30,Smartphone (Curva A),38
+2025-12-31,Smartphone (Curva A),43
+2025-01-01,Capa Protetora (Curva B),16
+2025-01-02,Capa Protetora (Curva B),9
+2025-01-03,Capa Protetora (Curva B),13
+2025-01-04,Capa Protetora (Curva B),13
+2025-01-05,Capa Protetora (Curva B),12
+2025-01-06,Capa Protetora (Curva B),15
+2025-01-07,Capa Protetora (Curva B),17
+2025-01-08,Capa Protetora (Curva B),11
+2025-01-09,Capa Protetora (Curva B),9
+2025-01-10,Capa Protetora (Curva B),13
+2025-01-11,Capa Protetora (Curva B),8
+2025-01-12,Capa Protetora (Curva B),7
+2025-01-13,Capa Protetora (Curva B),9
+2025-01-14,Capa Protetora (Curva B),9
+2025-01-15,Capa Protetora (Curva B),17
+2025-01-16,Capa Protetora (Curva B),13
+2025-01-17,Capa Protetora (Curva B),11
+2025-01-18,Capa Protetora (Curva B),12
+2025-01-19,Capa Protetora (Curva B),8
+2025-01-20,Capa Protetora (Curva B),6
+2025-01-21,Capa Protetora (Curva B),9
+2025-01-22,Capa Protetora (Curva B),10
+2025-01-23,Capa Protetora (Curva B),14
+2025-01-24,Capa Protetora (Curva B),13
+2025-01-25,Capa Protetora (Curva B),15
+2025-01-26,Capa Protetora (Curva B),13
+2025-01-27,Capa Protetora (Curva B),12
+2025-01-28,Capa Protetora (Curva B),10
+2025-01-29,Capa Protetora (Curva B),7
+2025-01-30,Capa Protetora (Curva B),14
+2025-01-31,Capa Protetora (Curva B),14
+2025-02-01,Capa Protetora (Curva B),9
+2025-02-02,Capa Protetora (Curva B),15
+2025-02-03,Capa Protetora (Curva B),9
+2025-02-04,Capa Protetora (Curva B),10
+2025-02-05,Capa Protetora (Curva B),18
+2025-02-06,Capa Protetora (Curva B),20
+2025-02-07,Capa Protetora (Curva B),8
+2025-02-08,Capa Protetora (Curva B),15
+2025-02-09,Capa Protetora (Curva B),9
+2025-02-10,Capa Protetora (Curva B),19
+2025-02-11,Capa Protetora (Curva B),8
+2025-02-12,Capa Protetora (Curva B),18
+2025-02-13,Capa Protetora (Curva B),14
+2025-02-14,Capa Protetora (Curva B),19
+2025-02-15,Capa Protetora (Curva B),10
+2025-02-16,Capa Protetora (Curva B),9
+2025-02-17,Capa Protetora (Curva B),6
+2025-02-18,Capa Protetora (Curva B),10
+2025-02-19,Capa Protetora (Curva B),5
+2025-02-20,Capa Protetora (Curva B),12
+2025-02-21,Capa Protetora (Curva B),10
+2025-02-22,Capa Protetora (Curva B),17
+2025-02-23,Capa Protetora (Curva B),9
+2025-02-24,Capa Protetora (Curva B),17
+2025-02-25,Capa Protetora (Curva B),17
+2025-02-26,Capa Protetora (Curva B),15
+2025-02-27,Capa Protetora (Curva B),12
+2025-02-28,Capa Protetora (Curva B),15
+2025-03-01,Capa Protetora (Curva B),11
+2025-03-02,Capa Protetora (Curva B),9
+2025-03-03,Capa Protetora (Curva B),10
+2025-03-04,Capa Protetora (Curva B),10
+2025-03-05,Capa Protetora (Curva B),4
+2025-03-06,Capa Protetora (Curva B),11
+2025-03-07,Capa Protetora (Curva B),15
+2025-03-08,Capa Protetora (Curva B),11
+2025-03-09,Capa Protetora (Curva B),19
+2025-03-10,Capa Protetora (Curva B),13
+2025-03-11,Capa Protetora (Curva B),19
+2025-03-12,Capa Protetora (Curva B),13
+2025-03-13,Capa Protetora (Curva B),9
+2025-03-14,Capa Protetora (Curva B),9
+2025-03-15,Capa Protetora (Curva B),15
+2025-03-16,Capa Protetora (Curva B),11
+2025-03-17,Capa Protetora (Curva B),14
+2025-03-18,Capa Protetora (Curva B),16
+2025-03-19,Capa Protetora (Curva B),9
+2025-03-20,Capa Protetora (Curva B),13
+2025-03-21,Capa Protetora (Curva B),9
+2025-03-22,Capa Protetora (Curva B),14
+2025-03-23,Capa Protetora (Curva B),6
+2025-03-24,Capa Protetora (Curva B),11
+2025-03-25,Capa Protetora (Curva B),14
+2025-03-26,Capa Protetora (Curva B),6
+2025-03-27,Capa Protetora (Curva B),14
+2025-03-28,Capa Protetora (Curva B),16
+2025-03-29,Capa Protetora (Curva B),12
+2025-03-30,Capa Protetora (Curva B),16
+2025-03-31,Capa Protetora (Curva B),14
+2025-04-01,Capa Protetora (Curva B),15
+2025-04-02,Capa Protetora (Curva B),14
+2025-04-03,Capa Protetora (Curva B),13
+2025-04-04,Capa Protetora (Curva B),17
+2025-04-05,Capa Protetora (Curva B),16
+2025-04-06,Capa Protetora (Curva B),10
+2025-04-07,Capa Protetora (Curva B),8
+2025-04-08,Capa Protetora (Curva B),16
+2025-04-09,Capa Protetora (Curva B),13
+2025-04-10,Capa Protetora (Curva B),13
+2025-04-11,Capa Protetora (Curva B),15
+2025-04-12,Capa Protetora (Curva B),15
+2025-04-13,Capa Protetora (Curva B),21
+2025-04-14,Capa Protetora (Curva B),14
+2025-04-15,Capa Protetora (Curva B),10
+2025-04-16,Capa Protetora (Curva B),10
+2025-04-17,Capa Protetora (Curva B),15
+2025-04-18,Capa Protetora (Curva B),15
+2025-04-19,Capa Protetora (Curva B),12
+2025-04-20,Capa Protetora (Curva B),14
+2025-04-21,Capa Protetora (Curva B),11
+2025-04-22,Capa Protetora (Curva B),8
+2025-04-23,Capa Protetora (Curva B),14
+2025-04-24,Capa Protetora (Curva B),6
+2025-04-25,Capa Protetora (Curva B),14
+2025-04-26,Capa Protetora (Curva B),20
+2025-04-27,Capa Protetora (Curva B),11
+2025-04-28,Capa Protetora (Curva B),11
+2025-04-29,Capa Protetora (Curva B),17
+2025-04-30,Capa Protetora (Curva B),9
+2025-05-01,Capa Protetora (Curva B),14
+2025-05-02,Capa Protetora (Curva B),16
+2025-05-03,Capa Protetora (Curva B),22
+2025-05-04,Capa Protetora (Curva B),15
+2025-05-05,Capa Protetora (Curva B),7
+2025-05-06,Capa Protetora (Curva B),18
+2025-05-07,Capa Protetora (Curva B),15
+2025-05-08,Capa Protetora (Curva B),7
+2025-05-09,Capa Protetora (Curva B),14
+2025-05-10,Capa Protetora (Curva B),8
+2025-05-11,Capa Protetora (Curva B),9
+2025-05-12,Capa Protetora (Curva B),10
+2025-05-13,Capa Protetora (Curva B),11
+2025-05-14,Capa Protetora (Curva B),13
+2025-05-15,Capa Protetora (Curva B),15
+2025-05-16,Capa Protetora (Curva B),12
+2025-05-17,Capa Protetora (Curva B),8
+2025-05-18,Capa Protetora (Curva B),13
+2025-05-19,Capa Protetora (Curva B),13
+2025-05-20,Capa Protetora (Curva B),10
+2025-05-21,Capa Protetora (Curva B),6
+2025-05-22,Capa Protetora (Curva B),11
+2025-05-23,Capa Protetora (Curva B),13
+2025-05-24,Capa Protetora (Curva B),15
+2025-05-25,Capa Protetora (Curva B),8
+2025-05-26,Capa Protetora (Curva B),13
+2025-05-27,Capa Protetora (Curva B),14
+2025-05-28,Capa Protetora (Curva B),10
+2025-05-29,Capa Protetora (Curva B),12
+2025-05-30,Capa Protetora (Curva B),11
+2025-05-31,Capa Protetora (Curva B),12
+2025-06-01,Capa Protetora (Curva B),6
+2025-06-02,Capa Protetora (Curva B),9
+2025-06-03,Capa Protetora (Curva B),17
+2025-06-04,Capa Protetora (Curva B),14
+2025-06-05,Capa Protetora (Curva B),13
+2025-06-06,Capa Protetora (Curva B),8
+2025-06-07,Capa Protetora (Curva B),6
+2025-06-08,Capa Protetora (Curva B),9
+2025-06-09,Capa Protetora (Curva B),15
+2025-06-10,Capa Protetora (Curva B),10
+2025-06-11,Capa Protetora (Curva B),16
+2025-06-12,Capa Protetora (Curva B),11
+2025-06-13,Capa Protetora (Curva B),12
+2025-06-14,Capa Protetora (Curva B),17
+2025-06-15,Capa Protetora (Curva B),9
+2025-06-16,Capa Protetora (Curva B),18
+2025-06-17,Capa Protetora (Curva B),13
+2025-06-18,Capa Protetora (Curva B),15
+2025-06-19,Capa Protetora (Curva B),8
+2025-06-20,Capa Protetora (Curva B),22
+2025-06-21,Capa Protetora (Curva B),16
+2025-06-22,Capa Protetora (Curva B),11
+2025-06-23,Capa Protetora (Curva B),10
+2025-06-24,Capa Protetora (Curva B),8
+2025-06-25,Capa Protetora (Curva B),22
+2025-06-26,Capa Protetora (Curva B),14
+2025-06-27,Capa Protetora (Curva B),15
+2025-06-28,Capa Protetora (Curva B),22
+2025-06-29,Capa Protetora (Curva B),9
+2025-06-30,Capa Protetora (Curva B),8
+2025-07-01,Capa Protetora (Curva B),10
+2025-07-02,Capa Protetora (Curva B),11
+2025-07-03,Capa Protetora (Curva B),13
+2025-07-04,Capa Protetora (Curva B),8
+2025-07-05,Capa Protetora (Curva B),14
+2025-07-06,Capa Protetora (Curva B),13
+2025-07-07,Capa Protetora (Curva B),9
+2025-07-08,Capa Protetora (Curva B),9
+2025-07-09,Capa Protetora (Curva B),3
+2025-07-10,Capa Protetora (Curva B),10
+2025-07-11,Capa Protetora (Curva B),3
+2025-07-12,Capa Protetora (Curva B),13
+2025-07-13,Capa Protetora (Curva B),11
+2025-07-14,Capa Protetora (Curva B),12
+2025-07-15,Capa Protetora (Curva B),7
+2025-07-16,Capa Protetora (Curva B),10
+2025-07-17,Capa Protetora (Curva B),9
+2025-07-18,Capa Protetora (Curva B),22
+2025-07-19,Capa Protetora (Curva B),14
+2025-07-20,Capa Protetora (Curva B),17
+2025-07-21,Capa Protetora (Curva B),19
+2025-07-22,Capa Protetora (Curva B),12
+2025-07-23,Capa Protetora (Curva B),17
+2025-07-24,Capa Protetora (Curva B),14
+2025-07-25,Capa Protetora (Curva B),9
+2025-07-26,Capa Protetora (Curva B),11
+2025-07-27,Capa Protetora (Curva B),7
+2025-07-28,Capa Protetora (Curva B),13
+2025-07-29,Capa Protetora (Curva B),17
+2025-07-30,Capa Protetora (Curva B),10
+2025-07-31,Capa Protetora (Curva B),15
+2025-08-01,Capa Protetora (Curva B),15
+2025-08-02,Capa Protetora (Curva B),16
+2025-08-03,Capa Protetora (Curva B),12
+2025-08-04,Capa Protetora (Curva B),10
+2025-08-05,Capa Protetora (Curva B),11
+2025-08-06,Capa Protetora (Curva B),11
+2025-08-07,Capa Protetora (Curva B),9
+2025-08-08,Capa Protetora (Curva B),9
+2025-08-09,Capa Protetora (Curva B),13
+2025-08-10,Capa Protetora (Curva B),13
+2025-08-11,Capa Protetora (Curva B),11
+2025-08-12,Capa Protetora (Curva B),12
+2025-08-13,Capa Protetora (Curva B),11
+2025-08-14,Capa Protetora (Curva B),13
+2025-08-15,Capa Protetora (Curva B),13
+2025-08-16,Capa Protetora (Curva B),20
+2025-08-17,Capa Protetora (Curva B),8
+2025-08-18,Capa Protetora (Curva B),10
+2025-08-19,Capa Protetora (Curva B),12
+2025-08-20,Capa Protetora (Curva B),10
+2025-08-21,Capa Protetora (Curva B),15
+2025-08-22,Capa Protetora (Curva B),10
+2025-08-23,Capa Protetora (Curva B),14
+2025-08-24,Capa Protetora (Curva B),11
+2025-08-25,Capa Protetora (Curva B),8
+2025-08-26,Capa Protetora (Curva B),8
+2025-08-27,Capa Protetora (Curva B),14
+2025-08-28,Capa Protetora (Curva B),13
+2025-08-29,Capa Protetora (Curva B),21
+2025-08-30,Capa Protetora (Curva B),15
+2025-08-31,Capa Protetora (Curva B),20
+2025-09-01,Capa Protetora (Curva B),9
+2025-09-02,Capa Protetora (Curva B),13
+2025-09-03,Capa Protetora (Curva B),10
+2025-09-04,Capa Protetora (Curva B),15
+2025-09-05,Capa Protetora (Curva B),16
+2025-09-06,Capa Protetora (Curva B),14
+2025-09-07,Capa Protetora (Curva B),13
+2025-09-08,Capa Protetora (Curva B),13
+2025-09-09,Capa Protetora (Curva B),9
+2025-09-10,Capa Protetora (Curva B),13
+2025-09-11,Capa Protetora (Curva B),9
+2025-09-12,Capa Protetora (Curva B),13
+2025-09-13,Capa Protetora (Curva B),14
+2025-09-14,Capa Protetora (Curva B),11
+2025-09-15,Capa Protetora (Curva B),7
+2025-09-16,Capa Protetora (Curva B),14
+2025-09-17,Capa Protetora (Curva B),9
+2025-09-18,Capa Protetora (Curva B),8
+2025-09-19,Capa Protetora (Curva B),9
+2025-09-20,Capa Protetora (Curva B),6
+2025-09-21,Capa Protetora (Curva B),9
+2025-09-22,Capa Protetora (Curva B),17
+2025-09-23,Capa Protetora (Curva B),12
+2025-09-24,Capa Protetora (Curva B),10
+2025-09-25,Capa Protetora (Curva B),13
+2025-09-26,Capa Protetora (Curva B),12
+2025-09-27,Capa Protetora (Curva B),8
+2025-09-28,Capa Protetora (Curva B),8
+2025-09-29,Capa Protetora (Curva B),7
+2025-09-30,Capa Protetora (Curva B),15
+2025-10-01,Capa Protetora (Curva B),18
+2025-10-02,Capa Protetora (Curva B),11
+2025-10-03,Capa Protetora (Curva B),12
+2025-10-04,Capa Protetora (Curva B),12
+2025-10-05,Capa Protetora (Curva B),15
+2025-10-06,Capa Protetora (Curva B),9
+2025-10-07,Capa Protetora (Curva B),12
+2025-10-08,Capa Protetora (Curva B),11
+2025-10-09,Capa Protetora (Curva B),13
+2025-10-10,Capa Protetora (Curva B),18
+2025-10-11,Capa Protetora (Curva B),11
+2025-10-12,Capa Protetora (Curva B),15
+2025-10-13,Capa Protetora (Curva B),6
+2025-10-14,Capa Protetora (Curva B),8
+2025-10-15,Capa Protetora (Curva B),13
+2025-10-16,Capa Protetora (Curva B),18
+2025-10-17,Capa Protetora (Curva B),13
+2025-10-18,Capa Protetora (Curva B),8
+2025-10-19,Capa Protetora (Curva B),11
+2025-10-20,Capa Protetora (Curva B),11
+2025-10-21,Capa Protetora (Curva B),21
+2025-10-22,Capa Protetora (Curva B),21
+2025-10-23,Capa Protetora (Curva B),10
+2025-10-24,Capa Protetora (Curva B),11
+2025-10-25,Capa Protetora (Curva B),13
+2025-10-26,Capa Protetora (Curva B),13
+2025-10-27,Capa Protetora (Curva B),8
+2025-10-28,Capa Protetora (Curva B),15
+2025-10-29,Capa Protetora (Curva B),8
+2025-10-30,Capa Protetora (Curva B),10
+2025-10-31,Capa Protetora (Curva B),14
+2025-11-01,Capa Protetora (Curva B),16
+2025-11-02,Capa Protetora (Curva B),10
+2025-11-03,Capa Protetora (Curva B),12
+2025-11-04,Capa Protetora (Curva B),11
+2025-11-05,Capa Protetora (Curva B),11
+2025-11-06,Capa Protetora (Curva B),15
+2025-11-07,Capa Protetora (Curva B),11
+2025-11-08,Capa Protetora (Curva B),15
+2025-11-09,Capa Protetora (Curva B),12
+2025-11-10,Capa Protetora (Curva B),21
+2025-11-11,Capa Protetora (Curva B),7
+2025-11-12,Capa Protetora (Curva B),11
+2025-11-13,Capa Protetora (Curva B),7
+2025-11-14,Capa Protetora (Curva B),8
+2025-11-15,Capa Protetora (Curva B),15
+2025-11-16,Capa Protetora (Curva B),11
+2025-11-17,Capa Protetora (Curva B),12
+2025-11-18,Capa Protetora (Curva B),15
+2025-11-19,Capa Protetora (Curva B),14
+2025-11-20,Capa Protetora (Curva B),12
+2025-11-21,Capa Protetora (Curva B),13
+2025-11-22,Capa Protetora (Curva B),8
+2025-11-23,Capa Protetora (Curva B),12
+2025-11-24,Capa Protetora (Curva B),3
+2025-11-25,Capa Protetora (Curva B),14
+2025-11-26,Capa Protetora (Curva B),6
+2025-11-27,Capa Protetora (Curva B),20
+2025-11-28,Capa Protetora (Curva B),10
+2025-11-29,Capa Protetora (Curva B),10
+2025-11-30,Capa Protetora (Curva B),14
+2025-12-01,Capa Protetora (Curva B),8
+2025-12-02,Capa Protetora (Curva B),14
+2025-12-03,Capa Protetora (Curva B),9
+2025-12-04,Capa Protetora (Curva B),10
+2025-12-05,Capa Protetora (Curva B),13
+2025-12-06,Capa Protetora (Curva B),9
+2025-12-07,Capa Protetora (Curva B),13
+2025-12-08,Capa Protetora (Curva B),13
+2025-12-09,Capa Protetora (Curva B),15
+2025-12-10,Capa Protetora (Curva B),13
+2025-12-11,Capa Protetora (Curva B),7
+2025-12-12,Capa Protetora (Curva B),18
+2025-12-13,Capa Protetora (Curva B),11
+2025-12-14,Capa Protetora (Curva B),11
+2025-12-15,Capa Protetora (Curva B),19
+2025-12-16,Capa Protetora (Curva B),7
+2025-12-17,Capa Protetora (Curva B),17
+2025-12-18,Capa Protetora (Curva B),10
+2025-12-19,Capa Protetora (Curva B),18
+2025-12-20,Capa Protetora (Curva B),15
+2025-12-21,Capa Protetora (Curva B),15
+2025-12-22,Capa Protetora (Curva B),8
+2025-12-23,Capa Protetora (Curva B),4
+2025-12-24,Capa Protetora (Curva B),16
+2025-12-25,Capa Protetora (Curva B),12
+2025-12-26,Capa Protetora (Curva B),15
+2025-12-27,Capa Protetora (Curva B),13
+2025-12-28,Capa Protetora (Curva B),10
+2025-12-29,Capa Protetora (Curva B),13
+2025-12-30,Capa Protetora (Curva B),8
+2025-12-31,Capa Protetora (Curva B),7
+2025-01-01,Aquecedor (Sazonal),35
+2025-01-02,Aquecedor (Sazonal),31
+2025-01-03,Aquecedor (Sazonal),32
+2025-01-04,Aquecedor (Sazonal),28
+2025-01-05,Aquecedor (Sazonal),31
+2025-01-06,Aquecedor (Sazonal),34
+2025-01-07,Aquecedor (Sazonal),34
+2025-01-08,Aquecedor (Sazonal),43
+2025-01-09,Aquecedor (Sazonal),27
+2025-01-10,Aquecedor (Sazonal),27
+2025-01-11,Aquecedor (Sazonal),29
+2025-01-12,Aquecedor (Sazonal),38
+2025-01-13,Aquecedor (Sazonal),28
+2025-01-14,Aquecedor (Sazonal),33
+2025-01-15,Aquecedor (Sazonal),32
+2025-01-16,Aquecedor (Sazonal),35
+2025-01-17,Aquecedor (Sazonal),31
+2025-01-18,Aquecedor (Sazonal),32
+2025-01-19,Aquecedor (Sazonal),31
+2025-01-20,Aquecedor (Sazonal),31
+2025-01-21,Aquecedor (Sazonal),33
+2025-01-22,Aquecedor (Sazonal),26
+2025-01-23,Aquecedor (Sazonal),30
+2025-01-24,Aquecedor (Sazonal),19
+2025-01-25,Aquecedor (Sazonal),35
+2025-01-26,Aquecedor (Sazonal),35
+2025-01-27,Aquecedor (Sazonal),29
+2025-01-28,Aquecedor (Sazonal),27
+2025-01-29,Aquecedor (Sazonal),21
+2025-01-30,Aquecedor (Sazonal),32
+2025-01-31,Aquecedor (Sazonal),32
+2025-02-01,Aquecedor (Sazonal),32
+2025-02-02,Aquecedor (Sazonal),22
+2025-02-03,Aquecedor (Sazonal),36
+2025-02-04,Aquecedor (Sazonal),31
+2025-02-05,Aquecedor (Sazonal),24
+2025-02-06,Aquecedor (Sazonal),27
+2025-02-07,Aquecedor (Sazonal),26
+2025-02-08,Aquecedor (Sazonal),27
+2025-02-09,Aquecedor (Sazonal),26
+2025-02-10,Aquecedor (Sazonal),37
+2025-02-11,Aquecedor (Sazonal),24
+2025-02-12,Aquecedor (Sazonal),29
+2025-02-13,Aquecedor (Sazonal),23
+2025-02-14,Aquecedor (Sazonal),34
+2025-02-15,Aquecedor (Sazonal),29
+2025-02-16,Aquecedor (Sazonal),35
+2025-02-17,Aquecedor (Sazonal),32
+2025-02-18,Aquecedor (Sazonal),34
+2025-02-19,Aquecedor (Sazonal),43
+2025-02-20,Aquecedor (Sazonal),19
+2025-02-21,Aquecedor (Sazonal),26
+2025-02-22,Aquecedor (Sazonal),39
+2025-02-23,Aquecedor (Sazonal),26
+2025-02-24,Aquecedor (Sazonal),29
+2025-02-25,Aquecedor (Sazonal),19
+2025-02-26,Aquecedor (Sazonal),14
+2025-02-27,Aquecedor (Sazonal),39
+2025-02-28,Aquecedor (Sazonal),30
+2025-03-01,Aquecedor (Sazonal),2
+2025-03-02,Aquecedor (Sazonal),4
+2025-03-03,Aquecedor (Sazonal),4
+2025-03-04,Aquecedor (Sazonal),3
+2025-03-05,Aquecedor (Sazonal),3
+2025-03-06,Aquecedor (Sazonal),1
+2025-03-07,Aquecedor (Sazonal),4
+2025-03-08,Aquecedor (Sazonal),2
+2025-03-09,Aquecedor (Sazonal),2
+2025-03-10,Aquecedor (Sazonal),2
+2025-03-11,Aquecedor (Sazonal),6
+2025-03-12,Aquecedor (Sazonal),1
+2025-03-13,Aquecedor (Sazonal),2
+2025-03-14,Aquecedor (Sazonal),2
+2025-03-15,Aquecedor (Sazonal),2
+2025-03-16,Aquecedor (Sazonal),5
+2025-03-17,Aquecedor (Sazonal),3
+2025-03-18,Aquecedor (Sazonal),1
+2025-03-19,Aquecedor (Sazonal),3
+2025-03-20,Aquecedor (Sazonal),5
+2025-03-21,Aquecedor (Sazonal),4
+2025-03-22,Aquecedor (Sazonal),4
+2025-03-23,Aquecedor (Sazonal),5
+2025-03-24,Aquecedor (Sazonal),2
+2025-03-25,Aquecedor (Sazonal),3
+2025-03-26,Aquecedor (Sazonal),2
+2025-03-27,Aquecedor (Sazonal),8
+2025-03-28,Aquecedor (Sazonal),3
+2025-03-29,Aquecedor (Sazonal),4
+2025-03-30,Aquecedor (Sazonal),5
+2025-03-31,Aquecedor (Sazonal),4
+2025-04-01,Aquecedor (Sazonal),3
+2025-04-02,Aquecedor (Sazonal),3
+2025-04-03,Aquecedor (Sazonal),1
+2025-04-04,Aquecedor (Sazonal),4
+2025-04-05,Aquecedor (Sazonal),4
+2025-04-06,Aquecedor (Sazonal),3
+2025-04-07,Aquecedor (Sazonal),2
+2025-04-08,Aquecedor (Sazonal),5
+2025-04-09,Aquecedor (Sazonal),1
+2025-04-10,Aquecedor (Sazonal),7
+2025-04-11,Aquecedor (Sazonal),3
+2025-04-12,Aquecedor (Sazonal),4
+2025-04-13,Aquecedor (Sazonal),2
+2025-04-14,Aquecedor (Sazonal),0
+2025-04-15,Aquecedor (Sazonal),4
+2025-04-16,Aquecedor (Sazonal),3
+2025-04-17,Aquecedor (Sazonal),4
+2025-04-18,Aquecedor (Sazonal),3
+2025-04-19,Aquecedor (Sazonal),1
+2025-04-20,Aquecedor (Sazonal),0
+2025-04-21,Aquecedor (Sazonal),3
+2025-04-22,Aquecedor (Sazonal),2
+2025-04-23,Aquecedor (Sazonal),6
+2025-04-24,Aquecedor (Sazonal),2
+2025-04-25,Aquecedor (Sazonal),4
+2025-04-26,Aquecedor (Sazonal),3
+2025-04-27,Aquecedor (Sazonal),7
+2025-04-28,Aquecedor (Sazonal),5
+2025-04-29,Aquecedor (Sazonal),4
+2025-04-30,Aquecedor (Sazonal),1
+2025-05-01,Aquecedor (Sazonal),6
+2025-05-02,Aquecedor (Sazonal),1
+2025-05-03,Aquecedor (Sazonal),2
+2025-05-04,Aquecedor (Sazonal),1
+2025-05-05,Aquecedor (Sazonal),3
+2025-05-06,Aquecedor (Sazonal),2
+2025-05-07,Aquecedor (Sazonal),1
+2025-05-08,Aquecedor (Sazonal),0
+2025-05-09,Aquecedor (Sazonal),1
+2025-05-10,Aquecedor (Sazonal),1
+2025-05-11,Aquecedor (Sazonal),5
+2025-05-12,Aquecedor (Sazonal),2
+2025-05-13,Aquecedor (Sazonal),6
+2025-05-14,Aquecedor (Sazonal),2
+2025-05-15,Aquecedor (Sazonal),5
+2025-05-16,Aquecedor (Sazonal),2
+2025-05-17,Aquecedor (Sazonal),1
+2025-05-18,Aquecedor (Sazonal),1
+2025-05-19,Aquecedor (Sazonal),2
+2025-05-20,Aquecedor (Sazonal),3
+2025-05-21,Aquecedor (Sazonal),2
+2025-05-22,Aquecedor (Sazonal),1
+2025-05-23,Aquecedor (Sazonal),5
+2025-05-24,Aquecedor (Sazonal),5
+2025-05-25,Aquecedor (Sazonal),2
+2025-05-26,Aquecedor (Sazonal),1
+2025-05-27,Aquecedor (Sazonal),3
+2025-05-28,Aquecedor (Sazonal),0
+2025-05-29,Aquecedor (Sazonal),2
+2025-05-30,Aquecedor (Sazonal),6
+2025-05-31,Aquecedor (Sazonal),7
+2025-06-01,Aquecedor (Sazonal),3
+2025-06-02,Aquecedor (Sazonal),3
+2025-06-03,Aquecedor (Sazonal),3
+2025-06-04,Aquecedor (Sazonal),1
+2025-06-05,Aquecedor (Sazonal),3
+2025-06-06,Aquecedor (Sazonal),4
+2025-06-07,Aquecedor (Sazonal),4
+2025-06-08,Aquecedor (Sazonal),1
+2025-06-09,Aquecedor (Sazonal),3
+2025-06-10,Aquecedor (Sazonal),0
+2025-06-11,Aquecedor (Sazonal),2
+2025-06-12,Aquecedor (Sazonal),4
+2025-06-13,Aquecedor (Sazonal),6
+2025-06-14,Aquecedor (Sazonal),3
+2025-06-15,Aquecedor (Sazonal),2
+2025-06-16,Aquecedor (Sazonal),4
+2025-06-17,Aquecedor (Sazonal),2
+2025-06-18,Aquecedor (Sazonal),4
+2025-06-19,Aquecedor (Sazonal),2
+2025-06-20,Aquecedor (Sazonal),6
+2025-06-21,Aquecedor (Sazonal),2
+2025-06-22,Aquecedor (Sazonal),0
+2025-06-23,Aquecedor (Sazonal),5
+2025-06-24,Aquecedor (Sazonal),3
+2025-06-25,Aquecedor (Sazonal),2
+2025-06-26,Aquecedor (Sazonal),5
+2025-06-27,Aquecedor (Sazonal),4
+2025-06-28,Aquecedor (Sazonal),4
+2025-06-29,Aquecedor (Sazonal),7
+2025-06-30,Aquecedor (Sazonal),2
+2025-07-01,Aquecedor (Sazonal),2
+2025-07-02,Aquecedor (Sazonal),5
+2025-07-03,Aquecedor (Sazonal),4
+2025-07-04,Aquecedor (Sazonal),3
+2025-07-05,Aquecedor (Sazonal),2
+2025-07-06,Aquecedor (Sazonal),4
+2025-07-07,Aquecedor (Sazonal),4
+2025-07-08,Aquecedor (Sazonal),5
+2025-07-09,Aquecedor (Sazonal),1
+2025-07-10,Aquecedor (Sazonal),2
+2025-07-11,Aquecedor (Sazonal),1
+2025-07-12,Aquecedor (Sazonal),4
+2025-07-13,Aquecedor (Sazonal),1
+2025-07-14,Aquecedor (Sazonal),3
+2025-07-15,Aquecedor (Sazonal),1
+2025-07-16,Aquecedor (Sazonal),2
+2025-07-17,Aquecedor (Sazonal),5
+2025-07-18,Aquecedor (Sazonal),4
+2025-07-19,Aquecedor (Sazonal),3
+2025-07-20,Aquecedor (Sazonal),3
+2025-07-21,Aquecedor (Sazonal),5
+2025-07-22,Aquecedor (Sazonal),3
+2025-07-23,Aquecedor (Sazonal),2
+2025-07-24,Aquecedor (Sazonal),1
+2025-07-25,Aquecedor (Sazonal),2
+2025-07-26,Aquecedor (Sazonal),1
+2025-07-27,Aquecedor (Sazonal),2
+2025-07-28,Aquecedor (Sazonal),1
+2025-07-29,Aquecedor (Sazonal),3
+2025-07-30,Aquecedor (Sazonal),3
+2025-07-31,Aquecedor (Sazonal),6
+2025-08-01,Aquecedor (Sazonal),5
+2025-08-02,Aquecedor (Sazonal),6
+2025-08-03,Aquecedor (Sazonal),1
+2025-08-04,Aquecedor (Sazonal),2
+2025-08-05,Aquecedor (Sazonal),4
+2025-08-06,Aquecedor (Sazonal),2
+2025-08-07,Aquecedor (Sazonal),1
+2025-08-08,Aquecedor (Sazonal),4
+2025-08-09,Aquecedor (Sazonal),4
+2025-08-10,Aquecedor (Sazonal),1
+2025-08-11,Aquecedor (Sazonal),4
+2025-08-12,Aquecedor (Sazonal),3
+2025-08-13,Aquecedor (Sazonal),1
+2025-08-14,Aquecedor (Sazonal),2
+2025-08-15,Aquecedor (Sazonal),1
+2025-08-16,Aquecedor (Sazonal),2
+2025-08-17,Aquecedor (Sazonal),2
+2025-08-18,Aquecedor (Sazonal),3
+2025-08-19,Aquecedor (Sazonal),4
+2025-08-20,Aquecedor (Sazonal),4
+2025-08-21,Aquecedor (Sazonal),0
+2025-08-22,Aquecedor (Sazonal),3
+2025-08-23,Aquecedor (Sazonal),0
+2025-08-24,Aquecedor (Sazonal),3
+2025-08-25,Aquecedor (Sazonal),1
+2025-08-26,Aquecedor (Sazonal),4
+2025-08-27,Aquecedor (Sazonal),5
+2025-08-28,Aquecedor (Sazonal),1
+2025-08-29,Aquecedor (Sazonal),3
+2025-08-30,Aquecedor (Sazonal),3
+2025-08-31,Aquecedor (Sazonal),3
+2025-09-01,Aquecedor (Sazonal),2
+2025-09-02,Aquecedor (Sazonal),3
+2025-09-03,Aquecedor (Sazonal),3
+2025-09-04,Aquecedor (Sazonal),4
+2025-09-05,Aquecedor (Sazonal),3
+2025-09-06,Aquecedor (Sazonal),1
+2025-09-07,Aquecedor (Sazonal),2
+2025-09-08,Aquecedor (Sazonal),4
+2025-09-09,Aquecedor (Sazonal),1
+2025-09-10,Aquecedor (Sazonal),4
+2025-09-11,Aquecedor (Sazonal),2
+2025-09-12,Aquecedor (Sazonal),1
+2025-09-13,Aquecedor (Sazonal),5
+2025-09-14,Aquecedor (Sazonal),6
+2025-09-15,Aquecedor (Sazonal),1
+2025-09-16,Aquecedor (Sazonal),7
+2025-09-17,Aquecedor (Sazonal),4
+2025-09-18,Aquecedor (Sazonal),3
+2025-09-19,Aquecedor (Sazonal),3
+2025-09-20,Aquecedor (Sazonal),0
+2025-09-21,Aquecedor (Sazonal),3
+2025-09-22,Aquecedor (Sazonal),3
+2025-09-23,Aquecedor (Sazonal),1
+2025-09-24,Aquecedor (Sazonal),0
+2025-09-25,Aquecedor (Sazonal),2
+2025-09-26,Aquecedor (Sazonal),4
+2025-09-27,Aquecedor (Sazonal),6
+2025-09-28,Aquecedor (Sazonal),3
+2025-09-29,Aquecedor (Sazonal),3
+2025-09-30,Aquecedor (Sazonal),2
+2025-10-01,Aquecedor (Sazonal),1
+2025-10-02,Aquecedor (Sazonal),0
+2025-10-03,Aquecedor (Sazonal),2
+2025-10-04,Aquecedor (Sazonal),6
+2025-10-05,Aquecedor (Sazonal),6
+2025-10-06,Aquecedor (Sazonal),3
+2025-10-07,Aquecedor (Sazonal),3
+2025-10-08,Aquecedor (Sazonal),2
+2025-10-09,Aquecedor (Sazonal),5
+2025-10-10,Aquecedor (Sazonal),3
+2025-10-11,Aquecedor (Sazonal),2
+2025-10-12,Aquecedor (Sazonal),2
+2025-10-13,Aquecedor (Sazonal),2
+2025-10-14,Aquecedor (Sazonal),3
+2025-10-15,Aquecedor (Sazonal),1
+2025-10-16,Aquecedor (Sazonal),6
+2025-10-17,Aquecedor (Sazonal),4
+2025-10-18,Aquecedor (Sazonal),6
+2025-10-19,Aquecedor (Sazonal),2
+2025-10-20,Aquecedor (Sazonal),5
+2025-10-21,Aquecedor (Sazonal),2
+2025-10-22,Aquecedor (Sazonal),3
+2025-10-23,Aquecedor (Sazonal),6
+2025-10-24,Aquecedor (Sazonal),6
+2025-10-25,Aquecedor (Sazonal),5
+2025-10-26,Aquecedor (Sazonal),4
+2025-10-27,Aquecedor (Sazonal),3
+2025-10-28,Aquecedor (Sazonal),1
+2025-10-29,Aquecedor (Sazonal),4
+2025-10-30,Aquecedor (Sazonal),3
+2025-10-31,Aquecedor (Sazonal),4
+2025-11-01,Aquecedor (Sazonal),31
+2025-11-02,Aquecedor (Sazonal),23
+2025-11-03,Aquecedor (Sazonal),24
+2025-11-04,Aquecedor (Sazonal),26
+2025-11-05,Aquecedor (Sazonal),33
+2025-11-06,Aquecedor (Sazonal),26
+2025-11-07,Aquecedor (Sazonal),31
+2025-11-08,Aquecedor (Sazonal),39
+2025-11-09,Aquecedor (Sazonal),33
+2025-11-10,Aquecedor (Sazonal),31
+2025-11-11,Aquecedor (Sazonal),27
+2025-11-12,Aquecedor (Sazonal),32
+2025-11-13,Aquecedor (Sazonal),34
+2025-11-14,Aquecedor (Sazonal),20
+2025-11-15,Aquecedor (Sazonal),26
+2025-11-16,Aquecedor (Sazonal),33
+2025-11-17,Aquecedor (Sazonal),19
+2025-11-18,Aquecedor (Sazonal),41
+2025-11-19,Aquecedor (Sazonal),33
+2025-11-20,Aquecedor (Sazonal),25
+2025-11-21,Aquecedor (Sazonal),34
+2025-11-22,Aquecedor (Sazonal),26
+2025-11-23,Aquecedor (Sazonal),20
+2025-11-24,Aquecedor (Sazonal),22
+2025-11-25,Aquecedor (Sazonal),34
+2025-11-26,Aquecedor (Sazonal),29
+2025-11-27,Aquecedor (Sazonal),28
+2025-11-28,Aquecedor (Sazonal),25
+2025-11-29,Aquecedor (Sazonal),26
+2025-11-30,Aquecedor (Sazonal),32
+2025-12-01,Aquecedor (Sazonal),27
+2025-12-02,Aquecedor (Sazonal),32
+2025-12-03,Aquecedor (Sazonal),32
+2025-12-04,Aquecedor (Sazonal),26
+2025-12-05,Aquecedor (Sazonal),33
+2025-12-06,Aquecedor (Sazonal),27
+2025-12-07,Aquecedor (Sazonal),32
+2025-12-08,Aquecedor (Sazonal),42
+2025-12-09,Aquecedor (Sazonal),25
+2025-12-10,Aquecedor (Sazonal),33
+2025-12-11,Aquecedor (Sazonal),28
+2025-12-12,Aquecedor (Sazonal),31
+2025-12-13,Aquecedor (Sazonal),29
+2025-12-14,Aquecedor (Sazonal),28
+2025-12-15,Aquecedor (Sazonal),24
+2025-12-16,Aquecedor (Sazonal),50
+2025-12-17,Aquecedor (Sazonal),21
+2025-12-18,Aquecedor (Sazonal),39
+2025-12-19,Aquecedor (Sazonal),26
+2025-12-20,Aquecedor (Sazonal),34
+2025-12-21,Aquecedor (Sazonal),31
+2025-12-22,Aquecedor (Sazonal),32
+2025-12-23,Aquecedor (Sazonal),34
+2025-12-24,Aquecedor (Sazonal),25
+2025-12-25,Aquecedor (Sazonal),34
+2025-12-26,Aquecedor (Sazonal),26
+2025-12-27,Aquecedor (Sazonal),26
+2025-12-28,Aquecedor (Sazonal),19
+2025-12-29,Aquecedor (Sazonal),34
+2025-12-30,Aquecedor (Sazonal),33
+2025-12-31,Aquecedor (Sazonal),42
