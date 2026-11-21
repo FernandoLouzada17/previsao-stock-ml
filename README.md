@@ -1,5 +1,7 @@
 # 🤖 Previsão de Procura e Alertas de Stock (Machine Learning)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://previsao-stock-ml-wn8gr8qzpnmdkjkxpadijn.streamlit.app/)
+
 Este projeto é uma aplicação interativa que utiliza **Inteligência Artificial (Regressão Linear)** para analisar o histórico de vendas de uma empresa e prever a procura futura de produtos. O objetivo principal é ajudar o setor de Logística e Supply Chain a evitar ruturas de stock e otimizar o inventário.
 
 ## 🎯 Problema de Negócio Resolvido
